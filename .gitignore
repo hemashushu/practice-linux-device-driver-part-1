@@ -1,0 +1,16 @@
+busybox-1.36.0
+busybox-1.36.0.tar.bz2
+linux-6.2.10
+linux-6.2.10.tar.xz
+vda.img
+
+*.o
+*.ko   
+*.mod  
+*.mod.c
+*.mod.o
+*.cmd
+
+src/Module.symvers
+src/modules.order
+user-read
